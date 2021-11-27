@@ -1,3 +1,5 @@
+# https://github.com/mcavalca/uri-python/blob/master/1104.py
+
 while True:
     a, b = input().split()
     if a == b == '0':
